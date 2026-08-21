@@ -89,7 +89,7 @@ python3 -m http.server 8080
 
 ```
 ddm-web/
-└── index.html   # app completo — HTML + CSS + JS em um único arquivo
+└── DDM Interativo.html   # app completo — HTML + CSS + JS em um único arquivo
 └── README.md    # este arquivo
 ```
 
