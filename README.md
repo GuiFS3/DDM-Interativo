@@ -4,13 +4,12 @@ Um simulador interativo baseado em navegador para o **Modelo de Difusão por Dri
 
 Desenvolvido com HTML, CSS e JavaScript puro. Sem dependências, sem etapa de build, sem servidor necessário.
 
-**→ [Abrir o simulador](https://guilherme-freitas.github.io/ddm-web/)** *(atualize com a URL do seu GitHub Pages)*
-
 ---
 
 ## Screenshot
 
-> *Adicione uma captura de tela aqui: arraste uma imagem para esta seção no GitHub, ou referencie um arquivo no repositório.*
+> <img width="1259" height="748" alt="image" src="https://github.com/user-attachments/assets/68da32d1-bd46-470c-ada3-ebb746f49358" />
+
 
 ---
 
