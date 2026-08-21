@@ -56,7 +56,7 @@ O simulador exibe:
 
 ### Opção 1 — Abrir diretamente
 
-Baixe o arquivo [`index.html`](index.html) e abra-o em qualquer navegador moderno. Só isso.
+Baixe o arquivo [`DDM Interativo.html`](DDM Interativo.html) e abra-o em qualquer navegador moderno. Só isso.
 
 ### Opção 2 — GitHub Pages
 
